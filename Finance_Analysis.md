@@ -38,7 +38,7 @@ This was completed in **Excel** using Power Query.
 
 ## Data Visualization
 Here is the dashboard.  
-
+![Finance Dashboard](https://github.com/HopeVictor/Power-BI-Projects/blob/main/1.png)
 
 ## Insights Uncovered
 
