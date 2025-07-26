@@ -38,7 +38,14 @@ This was completed in **Excel** using Power Query.
 
 ## Data Visualization
 Here is the dashboard.  
+<br/><br/>
 ![Finance Dashboard](https://github.com/HopeVictor/Power-BI-Projects/blob/main/1.png)
+
+<figure>
+  <img src="https://github.com/HopeVictor/Power-BI-Projects/blob/main/1.png" width=100% height=100% alt="alt text">
+  <figcaption>Figure: Finance Dashboard</figcaption>
+</figure>
+<br/><br/>
 
 ## Insights Uncovered
 
