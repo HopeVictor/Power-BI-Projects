@@ -6,7 +6,7 @@
 ## Business Questions
 
 ## About the Dataset
-I got the dataset from [Kaggle](https://github.com/HopeVictor/Power-BI-Projects/blob/main/Finance_data.csv).
+I got the dataset from [Kaggle](https://www.kaggle.com/datasets/nitindatta/finance-data/data).
 
 Here is the description of each column:  
 * gender: The gender of the person
